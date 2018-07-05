@@ -1,5 +1,5 @@
 jdk8新特性
-http://gaofi.cn/article/detail/272
+
 1. 函数式编程
   1.1 面向对象编程与函数式编程
   1.2 JDK8对FP的支持
@@ -28,3 +28,5 @@ http://gaofi.cn/article/detail/272
 6. IO实现
 7. 并发API实现
 8. 其他API的更新
+
+详情参考：<http://gaofi.cn/article/detail/272>
